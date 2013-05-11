@@ -1,5 +1,5 @@
 === Image Resize for Chrome and Safari ===
-Contributors: jamesdbruner and korythewebguy
+Contributors: jamesdbruner, korythewebguy
 Donate link: http://www.jamesdbruner.com
 Tags: resize images, image handles, resize images in chrome
 Requires at least: 3.0

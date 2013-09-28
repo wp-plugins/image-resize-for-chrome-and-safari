@@ -1,6 +1,5 @@
 === Image Resize for Chrome and Safari ===
-Contributors: jamesdbruner, korythewebguy
-Donate link: http://www.jamesdbruner.com
+Contributors: jamesdbruner korythewebguy
 Tags: resize images, image handles, resize images in chrome
 Requires at least: 3.0
 Tested up to: 3.5
@@ -12,7 +11,10 @@ Adds handles around images so you can resize them live in Chrome, Safari and oth
 
 == Description ==
 
-Ever wonder why you can't resize images in the wordpress editior like you can in Firefox and Internet Explorer? Well now you can.  Just upload and activate this plugin and you should be set.
+Ever wonder why you can't resize images in the wordpress editior like you can in Firefox and Internet Explorer? Well now you can.  Just upload and activate this plugin and you should be set.  
+
+Just to be clear, I did not create this function.  I found it here: http://wordpress.org/support/topic/solution-you-can-resize-images-in-chromesafariwebkit and placed it into a plugin for others to use.
+I also removed the donate link as appearantly it was not in good taste.
 
 == Installation ==
 
